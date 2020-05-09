@@ -13,7 +13,7 @@ The goal of the script is to create a CSV file with random contact information t
 
  - Clone / Download this repo Install Python v3 (I have 3.7.6 at this moment) 
   - Open a Terminal or Command prompt Navigate where the .py file is 
- - Run the commannd `python randomCsvCreatorpy` and hit ENTER
+ - Run the commannd `python randomContactCsv.py` and hit ENTER
  - Input the number of rows you want to have on your file and press ENTER
  - Wait until the process is finish 
  - Done!
