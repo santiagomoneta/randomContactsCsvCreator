@@ -17,7 +17,11 @@ The goal of the script is to create a CSV file with random contact information t
  - Input the number of rows you want to have on your file and press ENTER
  - Wait until the process is finish 
  - Done!
+
+
 ![How to use](https://i.imgur.com/Dsv6mT0.gif)
+
+
 ---
 
 Cheers!
